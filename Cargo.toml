@@ -6,7 +6,6 @@ rust-version = "1.85"
 description = "Inspect tar archives for extraction hazards without extracting them"
 license = "MIT"
 repository = "https://github.com/joshiii-xyz/archive-lint"
-readme = "README.md"
 keywords = ["archive", "security", "tar", "cli"]
 categories = ["command-line-utilities", "development-tools"]
 
